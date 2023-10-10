@@ -1,2 +1,2 @@
-# python_BMI_calculator
+# Python_BMI_calculator
 Code for BMI calculator.
